@@ -6,5 +6,7 @@ Oris: https://petrapastorino.github.io/Labo7-canales-placa-and-/Oris_cruce_canal
 Belly: https://petrapastorino.github.io/Labo7-canales-placa-and-/Belly_cruce_canales_notch50_offset.html
 Zygo: https://petrapastorino.github.io/Labo7-canales-placa-and-/Zygo_cruce_canales_notch50_offset.html
 
+Señales de placa con computadora de cuarto de aves: https://petrapastorino.github.io/Labo7-canales-placa-and-/clase6_notch50_offset.html
+
 
 
